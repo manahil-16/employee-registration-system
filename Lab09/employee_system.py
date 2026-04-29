@@ -2,15 +2,6 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import re
 
-# ================= COLORS =================
-PRIMARY = "#1F3A5F"     # deep blue
-ACCENT = "#4A90E2"      # bright blue
-SUCCESS = "#28C76F"     # green
-WARNING = "#FF9F43"     # orange
-DANGER = "#EA5455"      # red
-BG = "#F8F9FA"          # light bg
-CARD = "#FFFFFF"        # white
-HIGHLIGHT = "#EAF4FF"   # light blue highlight
 
 # ================= MAIN WINDOW =================
 root = tk.Tk()
